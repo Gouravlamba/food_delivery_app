@@ -131,22 +131,15 @@ Located inside `/test` directory.
 
 Run tests with:
 ```bash
-flutter test
-<p align="center"> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/1.png" width="250" alt="Screen 1"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/2.png" width="250" alt="Screen 2"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/3.png" width="250" alt="Screen 3"/> </p> <p align="center"> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/4.png" width="250" alt="Screen 4"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/5.png" width="250" alt="Screen 5"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/6.png" width="250" alt="Screen 6"/> </p> <p align="center"> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/7.png" width="250" alt="Screen 7"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/8.png" width="250" alt="Screen 8"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/9.png" width="250" alt="Screen 9"/> </p>
+ScreenShorts
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
+![Screenshot 2](3.png)
+![Screenshot 2](4.png)
+![Screenshot 2](5.png)
+![Screenshot 2](6.png)
+![Screenshot 2](7.png)
+![Screenshot 2](8.png)
+![Screenshot 9](/9.png)
 
----
-
-### ✅ Next Steps:
-
-1. Replace `gouravlamba007@gmail.com` with your actual email.  
-2. Save the README.md.  
-3. Commit & push:
-
-```bash
-git add README.md
-git commit -m "Added all screenshots to README"
-git push
-
-
-## 🧱 App Architecture (BLoC + SOLID)
 
