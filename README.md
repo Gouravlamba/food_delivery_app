@@ -131,18 +131,10 @@ Located inside `/test` directory.
 
 Run tests with:
 ```bash
-ScreenShorts
-# Project Screenshots
-
-![Screenshot 1](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/1.png)
-![Screenshot 2](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/2.png)
-![Screenshot 3](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/3.png)
-![Screenshot 4](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/4.png)
-![Screenshot 5](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/5.png)
-![Screenshot 6](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/6.png)
-![Screenshot 7](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/7.png)
-![Screenshot 8](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/8.png)
-![Screenshot 9](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/9.png)
+![UI 1](1.png)  
+![UI 2](img2.png)  
+![UI 3](img3.png)  
+![UI 4](img4.png)
 
 
 
