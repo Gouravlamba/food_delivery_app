@@ -134,15 +134,15 @@ Run tests with:
 ScreenShorts
 # Project Screenshots
 
-![Screenshot 1](1.png)
-![Screenshot 2](2.png)
-![Screenshot 3](3.png)
-![Screenshot 4](4.png)
-![Screenshot 5](5.png)
-![Screenshot 6](6.png)
-![Screenshot 7](7.png)
-![Screenshot 8](8.png)
-![Screenshot 9](9.png)
+![Screenshot 1](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/1.png)
+![Screenshot 2](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/2.png)
+![Screenshot 3](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/3.png)
+![Screenshot 4](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/4.png)
+![Screenshot 5](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/5.png)
+![Screenshot 6](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/6.png)
+![Screenshot 7](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/7.png)
+![Screenshot 8](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/8.png)
+![Screenshot 9](https://raw.githubusercontent.com/Gouravlamba/food_delivery_app/main/9.png)
 
 
 
