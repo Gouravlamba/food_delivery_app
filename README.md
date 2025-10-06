@@ -79,10 +79,6 @@ It focuses on **a single realistic workflow**, including:
 All navigation and state changes are handled using **BLoC** and **Events/States**.
 
 ---
-
-## 🧱 App Architecture (BLoC + SOLID)
-
-
 lib/
 │
 ├── bloc/
@@ -110,6 +106,7 @@ lib/
 │
 └── main.dart
 
+
 - **Single Responsibility Principle:** Each class has a single, clear purpose.  
 - **Dependency Inversion:** Business logic depends on abstractions, not concrete implementations.  
 - **BLoC** separates presentation and logic cleanly.
@@ -117,9 +114,9 @@ lib/
 ---
 
 ## ⚠️ Error Handling
-- All API or repository operations wrapped with `try-catch`
-- UI shows SnackBars or AlertDialogs on errors
-- Loading and empty states handled via BLoC states:
+- All API or repository operations wrapped with `try-catch`  
+- UI shows SnackBars or AlertDialogs on errors  
+- Loading and empty states handled via BLoC states:  
   - `LoadingState`, `LoadedState`, `ErrorState`, `EmptyState`
 
 ---
@@ -128,31 +125,28 @@ lib/
 Located inside `/test` directory.
 
 **Example tests:**
-- `cart_bloc_test.dart` – verifies adding/removing items
-- `order_bloc_test.dart` – tests order placement logic
+- `cart_bloc_test.dart` – verifies adding/removing items  
+- `order_bloc_test.dart` – tests order placement logic  
 - Uses `flutter_test` and `mockito` for mocking repositories
 
 Run tests with:
 ```bash
 flutter test
-## 🖼️ App Screenshots
+<p align="center"> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/1.png" width="250" alt="Screen 1"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/2.png" width="250" alt="Screen 2"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/3.png" width="250" alt="Screen 3"/> </p> <p align="center"> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/4.png" width="250" alt="Screen 4"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/5.png" width="250" alt="Screen 5"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/6.png" width="250" alt="Screen 6"/> </p> <p align="center"> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/7.png" width="250" alt="Screen 7"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/8.png" width="250" alt="Screen 8"/> <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/9.png" width="250" alt="Screen 9"/> </p>
 
-<p align="center">
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/1.png" width="250" alt="Screen 1"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/2.png" width="250" alt="Screen 2"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/3.png" width="250" alt="Screen 3"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/4.png" width="250" alt="Screen 4"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/5.png" width="250" alt="Screen 5"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/6.png" width="250" alt="Screen 6"/>
-</p>
+### ✅ Next Steps:
 
-<p align="center">
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/7.png" width="250" alt="Screen 7"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/8.png" width="250" alt="Screen 8"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/9.png" width="250" alt="Screen 9"/>
-</p>
+1. Replace `gouravlamba007@gmail.com` with your actual email.  
+2. Save the README.md.  
+3. Commit & push:
 
+```bash
+git add README.md
+git commit -m "Added all screenshots to README"
+git push
+
+
+## 🧱 App Architecture (BLoC + SOLID)
 
