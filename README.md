@@ -138,21 +138,21 @@ flutter test
 ## 🖼️ App Screenshots
 
 <p align="center">
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/1.png" width="250" alt="Screen 1"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/2.png" width="250" alt="Screen 2"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/3.png" width="250" alt="Screen 3"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/1.png" width="250" alt="Screen 1"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/2.png" width="250" alt="Screen 2"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/3.png" width="250" alt="Screen 3"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/4.png" width="250" alt="Screen 4"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/5.png" width="250" alt="Screen 5"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/6.png" width="250" alt="Screen 6"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/4.png" width="250" alt="Screen 4"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/5.png" width="250" alt="Screen 5"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/6.png" width="250" alt="Screen 6"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/7.png" width="250" alt="Screen 7"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/8.png" width="250" alt="Screen 8"/>
-  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/screenshots/9.png" width="250" alt="Screen 9"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/7.png" width="250" alt="Screen 7"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/8.png" width="250" alt="Screen 8"/>
+  <img src="https://github.com/Gouravlamba/food_delivery_app/blob/main/9.png" width="250" alt="Screen 9"/>
 </p>
 
 
