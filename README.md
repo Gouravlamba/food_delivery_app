@@ -5,7 +5,7 @@ This project demonstrates clean architecture, smooth state management, and beaut
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Content
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
