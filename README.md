@@ -28,7 +28,7 @@ It focuses on **a single realistic workflow**, including:
 - Viewing dish details
 - Adding items to the cart
 - Placing an order
-- Showing confirmation and order summa
+- Showing confirmation and order summary
 
 ---
 
