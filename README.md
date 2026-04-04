@@ -1,6 +1,6 @@
 ## 🍔 Food Delivery App
 
-A modern **Flutter-based Food Delivery App** built with **BLoC architecture**, following **SOLID principles**, and focused on creating a realistic food-ordering workflow.** 
+A modern **Flutter-based Food Delivery App** built with **BLoC architecture**, following **SOLID principles**, and focused on creating a realistic food-ordering workflow. 
 This project demonstrates clean architecture, smooth state management, and beautiful UI design.
 
 ---
