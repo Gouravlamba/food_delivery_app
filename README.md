@@ -3,7 +3,7 @@
 A modern **Flutter-based Food Delivery App** built with **BLoC architecture**, following **SOLID principles**, and focused on creating a realistic food-ordering workflow. 
 This project demonstrates clean architecture, smooth state management, and beautiful UI Design.
 
-jooern
+jo
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
