@@ -4,7 +4,6 @@ A modern **Flutter-based Food Delivery App** built with **BLoC architecture**, f
 This project demonstrates clean architecture, smooth state management, and beautiful UI Design.
 
 
------>
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -20,7 +19,7 @@ This project demonstrates clean architecture, smooth state management, and beaut
 - [Contact](#contact)
 
 ---
-
+ooifiivf ifoivnvi iifgivvifv  ifofodoigsdj  nodisavb ciodcvfv dcsdhlkfsdafnsd  uivdfbd  
 ## 🧭 Overview
 This Flutter app simulates the **food ordering process** similar to popular apps like Zomato or Swiggy.  
 It focuses on **a single realistic workflow**, including:
