@@ -19,7 +19,7 @@ This project demonstrates clean architecture, smooth state management, and beaut
 - [Contact](#contact)
 
 ---
-ooifiivf ifoivnv
+ooifiivf
 ## 🧭 Overview
 This Flutter app simulates the **food ordering process** similar to popular apps like Zomato or Swiggy.  
 It focuses on **a single realistic workflow**, including:
