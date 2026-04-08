@@ -4,7 +4,7 @@ A modern **Flutter-based Food Delivery App** built with **BLoC architecture**, f
 This project demonstrates clean architecture, smooth state management, and beautiful UI Design.
 
 
------------------------->
+----->
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
